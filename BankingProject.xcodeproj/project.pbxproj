@@ -25,6 +25,9 @@
 /* Begin PBXFileReference section */
 		63E1BEB0244443EE00548F43 /* BankingProject */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BankingProject; sourceTree = BUILT_PRODUCTS_DIR; };
 		63E1BEB3244443EE00548F43 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		63E1BEBA244445F200548F43 /* Account.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Account.h; sourceTree = "<group>"; };
+		63E1BEBB2444461900548F43 /* Bank.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Bank.h; sourceTree = "<group>"; };
+		63E1BEBC2444494000548F43 /* Error.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Error.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +61,9 @@
 			isa = PBXGroup;
 			children = (
 				63E1BEB3244443EE00548F43 /* main.cpp */,
+				63E1BEBA244445F200548F43 /* Account.h */,
+				63E1BEBB2444461900548F43 /* Bank.h */,
+				63E1BEBC2444494000548F43 /* Error.h */,
 			);
 			path = BankingProject;
 			sourceTree = "<group>";
